@@ -10,6 +10,7 @@
         <module name="mvn-app2" />
         <module name="mvn-web" />
         <module name="mybatis-example-0109" />
+        <module name="springboot-projects" />
       </profile>
     </annotationProcessing>
   </component>
